@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412036664574",
+    "project_id": "adminpage-34843",
+    "storage_bucket": "adminpage-34843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412036664574:android:8437ec731c7489c0f7e9af",
+        "android_client_info": {
+          "package_name": "com.example.adminpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_BV7FrAkZIOcyQJ2eGEacf23TM1oMoqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
